@@ -1,0 +1,173 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "toc_visible": true,
+      "authorship_tag": "ABX9TyOB5Q9I+puaZkH85yrlovsN",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/lotto-inspektor/lotto-online-spielen/blob/main/Lotto_spielen_in_Deutschland_online\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Was ist LOTTO?"
+      ],
+      "metadata": {
+        "id": "j84oYJhKTIWc"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Lotto ist ein [Glücksspiel](https://www.caritas.de/beitraege/wasisteingluecksspiel/167978/) und daher nicht wirklich berechenbar. Theoretisch können Sie auf einen Schlag sehr viel Geld gewinnen. Jedoch sind Ihre Chancen, auf einen Schlag Millionär zu werden, trotzdem sehr gering. So funktioniert das Gewinnspiel:\n",
+        "Im Grunde genommen geht es beim Lotto darum, 6 von 49 Zahlen richtig zu erraten.\n",
+        "Die sechs Zahlen werden zweimal wöchentlich im Fernsehen ausgelost. Bei der Ziehung der [Lottozahlen](https://www.tippland.de/lotto/lottozahlen) werden 49 nummerierte Kugeln in einer gläsernen Trommel hin- und her geschleudert. Nacheinander rollen dann sechs Kugeln aus der Trommel.\n"
+      ],
+      "metadata": {
+        "id": "xlFyKYMvUy9-"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Deutschlands beliebteste Lotterie"
+      ],
+      "metadata": {
+        "id": "HNIwaH2RVB2S"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "LOTTO 6aus49 ist Deutschlands beliebteste Lotterie. Gesucht werden die sechs Gewinnzahlen, die aus dem Zahlenkreis zwischen 1 bis 49 zur nächsten Ziehung am Mittwoch oder Samstag ermittelt werden. Stimmt zudem die Superzahl, winkt der Einzug in die Jackpotklasse, die durchaus mit Mehrfachmillionen gefüllt sein kann (Chance: 1 : 140 Mio.). Gewinne gibt es bereits ab zwei Richtigen plus Superzahl."
+      ],
+      "metadata": {
+        "id": "703lCrBlVJD5"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# LOTTO Spielregeln"
+      ],
+      "metadata": {
+        "id": "KQekIogFVgdL"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Eine andere Möglichkeit über einen längeren Zeitraum LOTTO 6aus49 online  oder offline zu spielen ist ein Lotto-Abo in Form eines Dauerscheines. Mit einem Dauerschein nehmen Sie ganz automatisch an jeder Ziehung (mittwochs sowie samstags) teil. Somit verpassen Sie keine Ziehung und haben die Chance auf hohe Gewinne.\n",
+        "\n",
+        "Es gibt neun Gewinnklassen. Jede Gewinnklasse hat eine Quote. Die Quoten geben an, wieviel Geld man im Falle eines Gewinnes erhält. Nur die Gewinnklasse 9 hat eine feste Quote von 6 Euro, d.h., wenn man die Gewinnklasse neun getroffen hat, also 2 Richtige plus Superzahl, dann hat man 6,- Euro gewonnen. Alle anderen Gewinnklassen haben variable Quoten, die von Ziehung zu Ziehung verschieden sind und sich aus dem Spieleinsatz berechnen (Summe aus den abgegebenen Spielscheinen) und daraus, wie viele Gewinner es in der entsprechenden Gewinnklasse gibt. Allgemein gilt: Je höher die Gewinnklasse, desto kleiner der Gewinn, aber desto höher die Gewinnwahrscheinlichkeit.\n",
+        "\n",
+        "Gemäß § 763 BGB ist ein Lotterievertrag oder ein Ausspielvertrag nur verbindlich, wenn die Lotterie oder die Ausspielung staatlich genehmigt ist. Der Staat besitzt ein Lotteriemonopol, sodass gemäß § 287 Abs. 1 StGB jede Veranstaltung einer öffentlichen Lotterie oder Ausspielung einer behördlichen Erlaubnis bedarf. Genehmigungsfrei sind Lotterien und Ausspielungen nur, wenn die Lose kostenfrei und ohne Bindung ausgegeben werden oder als nicht-öffentliche Veranstaltungen. Ansonsten handelt es sich um eine nicht einklagbare unvollkommene Verbindlichkeit nach § 762 BGB, die nicht zurückgefordert werden kann, wenn sie erfüllt wurde („Spielschulden sind Ehrenschulden“)."
+      ],
+      "metadata": {
+        "id": "15A9o9CYVjzD"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#LOTTO online spielen und kaufen"
+      ],
+      "metadata": {
+        "id": "43A8cBN4V4ki"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Lotto online spielen - Beim „ Lotto 6 aus 49“ wählen Sie aus der Zahlenreihe 1 bis 49 sechs Zahlen. Das ist Ihr Lotto-Tipp.\n",
+        "\n",
+        "Sie können den Lottoschein für sich selber ausfüllen oder auch mit Freunden, Kollegen oder Verwandten eine Tippgemeinschaft bilden.\n",
+        "\n",
+        "Jeder Lottoschein hat 12 Felder. Davon kann man ein Feld oder eine beliebige Anzahl Felder zum Tippen nutzen. In jedem werden 6 der 49 Zahlen angekreuzt („getippt“). Wer Online spielt, kann auch für eins oder mehrere Felder einen QuickTipp (zufällige Auswahl der Zahlen) abgeben.\n",
+        "Anschließend kreuzen Sie an, wie viele Wochen Ihr Spielschein mitspielen soll: 1, 2, 3, 4, 5, 8 und 10 Wochen sind möglich. Oder: Sie wählen ein Abo als Dauerschein.\n",
+        "Diesen Dauerschein können Sie auch vordatieren: Bis zu vier Wochen lang.\n",
+        "Schließlich entscheiden Sie noch, an welcher Ziehung Sie teilnehmen wollen.\n",
+        "Zuletzt kommt die Auswahl Zusatzlotterien. Möglich sind Spiel 77 und SUPER 6\n",
+        "Jetzt geben Sie Ihren Schein bei der Annahmestelle ab oder legen ihn in den Online-Warenkorb.\n",
+        "\n",
+        "Lotto online spielen\n",
+        "Lotto, auch das sogenannte „ Normal-Lotto 6aus49* (ANZEIGE)“ genannt, kann natürlich auch online gespielt werden.\n",
+        "\n",
+        "Aber: Reine Lotto online sind eigene Ziehungen, die nichts mit der staatlichen Lotterie zu tun haben. Gezogen werden je nach Anbieter beispielsweise „7 aus 49“, „6 aus 49“, „6 aus 32“ oder auch „7 aus 50“. Die Preise sind Geld- oder Sachpreise."
+      ],
+      "metadata": {
+        "id": "675wlwwmWOJr"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# Lotto online apps"
+      ],
+      "metadata": {
+        "id": "mZiK4fdIWlDA"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Seriöse Lotto online Apps findest du bei staatlich lizensierten Anbietern wie z.B. Tippland.de, Lotto.de oder Lotto24 Dazu zählen auch die sogenannten „Gewerblichen Spielvermittler“ – zum Beispiel wir.\n",
+        "\n",
+        "In Deutschland gilt ganz allgemein: Nur wer eine behördliche Genehmigung hat, darf Glücksspiele anbieten. Dieses sogenannte staatliche Lotteriemonopol ist auf Bundeslandebene organisiert und sichert damit absolute Seriosität ab. Jede Landeslotterie bietet ihr eigenes Lotto an – in Annahmestellen, auf einer eigenen Website und mobil mit der dazugehörigen [Lotto online](https://www.tippland.de/lotto) App. Deshalb können übrigens auch die Lotto-Kosten je nach Bundesland variieren.\n",
+        "\n",
+        "Wann die Ziehungen der einzelnen Lotterien stattfinden, ist in allen Bundesländern gleich. Jedoch hält es jedes Bundesland und jeder Online-Lotto-Anbieter wie Tippland anders mit dem jeweiligen Annahmeschluss: In der App gilt also der gleiche Annahmeschluss wie im Webshop des Anbieters, bei dem du spielst.\n",
+        "\n",
+        "Lotto online Apps privater Anbieter\n",
+        "Private Lotto-Anbieter besitzen keine staatliche Lizenz. Das bedeutet dennoch nicht, dass alle Anbieter deshalb unseriös sein müssen. Hier gilt es die Erfahrungsberichte genaustens zu studieren, etwa indem man den Namen der Lotterie + „Erfahrung“ googelt. Eine andere Möglichkeit ist es die Google-Bewertungen zu lesen oder auf Gütesiegel anderer Bewertungsportale, wie Trusted Shops, zu achten.\n",
+        "\n",
+        "Meide Lotto-Apps, wie Lottoland, Lottohelden & Co\n",
+        "Bei privaten Anbietern von Lotterien, wie bei Lottoland, Lottohelden und Co, nimmst du nicht an der echten Lotterie teil, sondern schließt eine Wette mit dem Anbieter ab. Gewinnst du mit deinen Lotto-Glückszahlen, muss der Anbieter den Gewinn selbst auszahlen und nicht etwa wie sonst, der Lotterieveranstalter. In der Regel springt bei seriösen Lotto-Anbietern in diesen Fällen die Versicherung ein und kommt für die Zahlung auf. Dafür gibt es aber keine Garantie. Das bedeutet, dass im Gewinnfall nicht sicher dein Gewinn ausgezahlt wird. Stell dir vor: Du tippst die richtigen Zahlen und deine Millionen werden einfach nicht ausgezahlt."
+      ],
+      "metadata": {
+        "id": "sUxiVelyWnrA"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Quellen:\n",
+        "*   https://praxistipps.focus.de/\n",
+        "*   https://www.lottomv.de/\n",
+        "*   https://www.tippland.de/lotto \n",
+        "*   https://www.lotto-niedersachsen.de/\n",
+        "*   https://www.tipp24.de/magazin\n",
+        "*   https://www.bild.de/news/inland/news-inland/lotto-arten-welche-wege-zum-lotto-glueck-fuehren-koennen-77464848.bild.html\n",
+        "*   https://lotto.web.de/ratgeber/lotto-regeln/\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "wGItnu6oU8Pd"
+      }
+    }
+  ]
+}
